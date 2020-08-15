@@ -14,3 +14,8 @@ h5 {
     font-size: 4rem;
     line-height: 1.5;
 }
+
+.container-fluid {
+    padding: 3% 10% 7%;
+    /* it takes 100% width */
+}
