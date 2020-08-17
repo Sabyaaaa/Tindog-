@@ -1,12 +1,13 @@
-#title {
-    background-color: #ff4c68;
+body {
+    font-family: 'Montserrat';
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+h1 {
     font-family: 'Montserrat', sans-serif;
 }
 
