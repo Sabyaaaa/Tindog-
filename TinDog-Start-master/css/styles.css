@@ -55,6 +55,21 @@ p {
 }
 
 
+/* Title image */
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+    /* rotate(a), where a is the angle by which you want to rotate your image */
+    position: absolute;
+    right: 25%;
+}
+
+#title {
+    text-align: left;
+}
+
+
 /* Download Button */
 
 .Download-button {
