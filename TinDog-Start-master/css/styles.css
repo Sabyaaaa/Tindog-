@@ -127,6 +127,11 @@ p {
     margin: 10%;
 }
 
+.carousel-item {
+    padding: 5% 15%;
+    /* our buttons will now be placed a lil bit far */
+}
+
 #press {
     background-color: #ef8172;
     color: #fff;
